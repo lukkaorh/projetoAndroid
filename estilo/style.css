@@ -46,7 +46,7 @@ header>h1{
     color:white;
     font-weight: normal;
     margin-top: 30px;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     text-shadow: 2PX 2PX 0PX rgb(23, 23, 23);
     font-family: var(--fonte-destaque);
 }
